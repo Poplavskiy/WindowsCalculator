@@ -1,0 +1,9 @@
+C:\Users\Popla\Documents\Visual Studio 2015\Templates\Projects\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.exe.config
+C:\Users\Popla\Documents\Visual Studio 2015\Templates\Projects\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.exe
+C:\Users\Popla\Documents\Visual Studio 2015\Templates\Projects\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.pdb
+C:\Users\Popla\Documents\Visual Studio 2015\Templates\Projects\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Popla\Documents\Visual Studio 2015\Templates\Projects\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.Form1.resources
+C:\Users\Popla\Documents\Visual Studio 2015\Templates\Projects\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.Properties.Resources.resources
+C:\Users\Popla\Documents\Visual Studio 2015\Templates\Projects\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.csproj.GenerateResource.Cache
+C:\Users\Popla\Documents\Visual Studio 2015\Templates\Projects\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.exe
+C:\Users\Popla\Documents\Visual Studio 2015\Templates\Projects\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.pdb
